@@ -1,0 +1,23 @@
+
+# Dependencias de Node
+node_modules/
+
+# Archivos de entorno
+.env
+.env.local
+
+# Archivos de compilación de TypeScript
+dist/
+build/
+
+# Archivos de registro
+*.log
+logs/
+
+# Archivos de sistema operativo (macOS)
+.DS_Store
+
+# Archivos de IDE (VS Code)
+.vscode/
+
+/generated/prisma
