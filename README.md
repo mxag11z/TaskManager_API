@@ -1,0 +1,1 @@
+Todo App: GraphQL-powered task manager. Create/manage tasks & custom statuses (max 5). Features  flexible status editing, rearrangement position of colums (status), and auto-reassignment to 'TODO' when custom statuses are deleted. Built with TS, Apollo, Prisma, PostgreSQL.
